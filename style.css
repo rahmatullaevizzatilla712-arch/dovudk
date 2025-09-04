@@ -1,0 +1,52 @@
+.backround{
+    background-color: black;
+    display: flex;
+    color: white;
+justify-content: end;
+height: 70px;
+
+}
+
+.parent{
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+    font-size: 35px;
+    width: 51px;
+    height: 22px;
+    align-items: center;
+    padding: 25px;
+    margin-right: 70px;
+
+
+}
+.div{
+    width: 1440px;
+    height: 1508px;
+    text-align: center;
+    margin: auto;
+    padding: 100px;
+    
+}
+h1{
+     font-size: 88px;
+     padding: 68px;
+}
+
+.parent1{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+}
+
+.box{
+    width: 393px;
+    height: 396px;
+}
+
+img{
+    width:393px ;
+    height: 230;
+    border-radius: 20px;
+}
